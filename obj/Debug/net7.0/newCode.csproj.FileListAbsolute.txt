@@ -1,0 +1,15 @@
+C:\dev\newCode\bin\Debug\net7.0\newCode.exe
+C:\dev\newCode\bin\Debug\net7.0\newCode.deps.json
+C:\dev\newCode\bin\Debug\net7.0\newCode.runtimeconfig.json
+C:\dev\newCode\bin\Debug\net7.0\newCode.dll
+C:\dev\newCode\bin\Debug\net7.0\newCode.pdb
+C:\dev\newCode\obj\Debug\net7.0\newCode.csproj.AssemblyReference.cache
+C:\dev\newCode\obj\Debug\net7.0\newCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\newCode\obj\Debug\net7.0\newCode.AssemblyInfoInputs.cache
+C:\dev\newCode\obj\Debug\net7.0\newCode.AssemblyInfo.cs
+C:\dev\newCode\obj\Debug\net7.0\newCode.csproj.CoreCompileInputs.cache
+C:\dev\newCode\obj\Debug\net7.0\newCode.dll
+C:\dev\newCode\obj\Debug\net7.0\refint\newCode.dll
+C:\dev\newCode\obj\Debug\net7.0\newCode.pdb
+C:\dev\newCode\obj\Debug\net7.0\newCode.genruntimeconfig.cache
+C:\dev\newCode\obj\Debug\net7.0\ref\newCode.dll
